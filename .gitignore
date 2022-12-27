@@ -1,3 +1,9 @@
+data
+build
+bazel*
+.vscode
+.cache
+
 # Prerequisites
 *.d
 
